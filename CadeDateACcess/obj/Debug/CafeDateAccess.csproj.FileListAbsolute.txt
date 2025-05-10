@@ -1,0 +1,207 @@
+D:\Cafe\CadeDateACcess\bin\Debug\x86\sqlite3.dll
+D:\Cafe\CadeDateACcess\bin\Debug\x64\sqlite3.dll
+D:\Cafe\CadeDateACcess\bin\Debug\CadeDateACcess.dll
+D:\Cafe\CadeDateACcess\bin\Debug\CadeDateACcess.pdb
+D:\Cafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.AssemblyReference.cache
+D:\Cafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.CoreCompileInputs.cache
+D:\Cafe\CadeDateACcess\obj\Debug\CafeDate.45065489.Up2Date
+D:\Cafe\CadeDateACcess\obj\Debug\CadeDateACcess.dll
+D:\Cafe\CadeDateACcess\obj\Debug\CadeDateACcess.pdb
+D:\Cafe\CadeDateACcess\bin\Debug\System.Data.SQLite.dll
+D:\Cafe\CadeDateACcess\bin\Debug\System.Data.SQLite.xml
+D:\Cafe\CadeDateACcess\bin\Debug\ClsSales.cs
+D:\Cafe\CadeDateACcess\bin\Debug\DBCafe.db
+D:\Cafe\CadeDateACcess\bin\Debug\EPPlus.dll
+D:\Cafe\CadeDateACcess\bin\Debug\EPPlus.Interfaces.dll
+D:\Cafe\CadeDateACcess\bin\Debug\EPPlus.System.Drawing.dll
+D:\Cafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Cafe\CadeDateACcess\bin\Debug\System.Buffers.dll
+D:\Cafe\CadeDateACcess\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Cafe\CadeDateACcess\bin\Debug\System.Memory.dll
+D:\Cafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.dll
+D:\Cafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cafe\CadeDateACcess\bin\Debug\EPPlus.xml
+D:\Cafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Cafe\CadeDateACcess\bin\Debug\System.Buffers.xml
+D:\Cafe\CadeDateACcess\bin\Debug\System.Memory.xml
+D:\Cafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.xml
+D:\Cafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\x86\sqlite3.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\x64\sqlite3.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\ClsSales.cs
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\CadeDateACcess.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\CadeDateACcess.pdb
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.Interfaces.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.System.Drawing.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Buffers.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.Annotations.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Memory.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Buffers.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Data.SQLite.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Memory.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.xml
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.AssemblyReference.cache
+D:\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.CoreCompileInputs.cache
+D:\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDate.45065489.Up2Date
+D:\restaurantAndCafe\CadeDateACcess\obj\Debug\CadeDateACcess.dll
+D:\restaurantAndCafe\CadeDateACcess\obj\Debug\CadeDateACcess.pdb
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\DBCafe.db
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\netstandard.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.AppContext.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Collections.Concurrent.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Collections.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Collections.NonGeneric.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Collections.Specialized.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Console.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Data.Common.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.Contracts.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.Debug.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.Process.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.Tools.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Diagnostics.Tracing.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Drawing.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Dynamic.Runtime.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Globalization.Calendars.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Globalization.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Globalization.Extensions.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.Compression.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.FileSystem.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.IsolatedStorage.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.Pipes.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Linq.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Linq.Expressions.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Linq.Parallel.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Linq.Queryable.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.Http.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.NameResolution.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.NetworkInformation.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.Ping.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.Requests.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.Security.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.Sockets.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.WebSockets.Client.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Net.WebSockets.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ObjectModel.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Reflection.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Reflection.Extensions.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Reflection.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Resources.Reader.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Resources.ResourceManager.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Resources.Writer.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Extensions.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Handles.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.InteropServices.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Numerics.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Claims.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.Principal.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Security.SecureString.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Text.Encoding.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Text.RegularExpressions.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.Overlapped.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.Tasks.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.Thread.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.ThreadPool.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Threading.Timer.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ValueTuple.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Xml.ReaderWriter.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Xml.XDocument.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Xml.XmlDocument.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Xml.XmlSerializer.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Xml.XPath.dll
+D:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\x86\sqlite3.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\x64\sqlite3.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\DBCafe.db
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\ClsSales.cs
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\CadeDateACcess.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\CadeDateACcess.pdb
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.Interfaces.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.System.Drawing.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Buffers.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.Annotations.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Memory.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.xml
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Buffers.xml
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Data.SQLite.xml
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Memory.xml
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.xml
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.AssemblyReference.cache
+E:\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.CoreCompileInputs.cache
+E:\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDate.45065489.Up2Date
+E:\restaurantAndCafe\CadeDateACcess\obj\Debug\CadeDateACcess.dll
+E:\restaurantAndCafe\CadeDateACcess\obj\Debug\CadeDateACcess.pdb
+E:\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Data.SQLite.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\x86\sqlite3.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\x64\sqlite3.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\DBCafe.db
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\ClsSales.cs
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\CadeDateACcess.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\CadeDateACcess.pdb
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.Interfaces.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.System.Drawing.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Buffers.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.ComponentModel.Annotations.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Data.SQLite.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Memory.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\EPPlus.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Buffers.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Data.SQLite.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Memory.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Numerics.Vectors.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.AssemblyReference.cache
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDateAccess.csproj.CoreCompileInputs.cache
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\obj\Debug\CafeDate.45065489.Up2Date
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\obj\Debug\CadeDateACcess.dll
+E:\WORK\My Apps\restaurantAndCafe\CadeDateACcess\obj\Debug\CadeDateACcess.pdb

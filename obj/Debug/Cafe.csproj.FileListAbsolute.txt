@@ -1,0 +1,346 @@
+F:\Cafe\bin\Debug\x86\sqlite3.dll
+F:\Cafe\bin\Debug\x64\sqlite3.dll
+F:\Cafe\bin\Debug\DBCafe.db
+F:\Cafe\bin\Debug\YourCafe.exe.config
+F:\Cafe\bin\Debug\YourCafe.exe.manifest
+F:\Cafe\bin\Debug\YourCafe.application
+F:\Cafe\bin\Debug\YourCafe.exe
+F:\Cafe\bin\Debug\YourCafe.pdb
+F:\Cafe\bin\Debug\CadeDateACcess.dll
+F:\Cafe\bin\Debug\EntityFramework.SqlServer.dll
+F:\Cafe\bin\Debug\System.Data.SQLite.dll
+F:\Cafe\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Cafe\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Cafe\bin\Debug\CadeDateACcess.pdb
+F:\Cafe\bin\Debug\EntityFramework.xml
+F:\Cafe\bin\Debug\EntityFramework.SqlServer.xml
+F:\Cafe\bin\Debug\System.Data.SQLite.xml
+F:\Cafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+F:\Cafe\obj\Debug\Cafe.CtrlDrink.resources
+F:\Cafe\obj\Debug\Cafe.FrmSettings.resources
+F:\Cafe\obj\Debug\Cafe.Main.resources
+F:\Cafe\obj\Debug\Cafe.FrmAddEditDrink.resources
+F:\Cafe\obj\Debug\Cafe.FrmCafeDetails.resources
+F:\Cafe\obj\Debug\Cafe.FrmGetDeliveryInvoiceDetails.resources
+F:\Cafe\obj\Debug\Cafe.FrmInnerInvoices.resources
+F:\Cafe\obj\Debug\Cafe.FrmInvoice.resources
+F:\Cafe\obj\Debug\Cafe.FrmLogin.resources
+F:\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+F:\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+F:\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+F:\Cafe\obj\Debug\YourCafe.exe.manifest
+F:\Cafe\obj\Debug\YourCafe.application
+F:\Cafe\obj\Debug\Cafe.csproj.Up2Date
+F:\Cafe\obj\Debug\YourCafe.exe
+F:\Cafe\obj\Debug\YourCafe.pdb
+F:\Cafe\bin\Debug\EntityFramework.dll
+D:\Cafe\bin\Debug\x86\sqlite3.dll
+D:\Cafe\bin\Debug\x64\sqlite3.dll
+D:\Cafe\bin\Debug\YourCafe.exe.config
+D:\Cafe\bin\Debug\YourCafe.exe.manifest
+D:\Cafe\bin\Debug\YourCafe.application
+D:\Cafe\bin\Debug\YourCafe.exe
+D:\Cafe\bin\Debug\YourCafe.pdb
+D:\Cafe\bin\Debug\CadeDateACcess.dll
+D:\Cafe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cafe\bin\Debug\System.Data.SQLite.dll
+D:\Cafe\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Cafe\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Cafe\bin\Debug\EntityFramework.dll
+D:\Cafe\bin\Debug\CadeDateACcess.pdb
+D:\Cafe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cafe\bin\Debug\System.Data.SQLite.xml
+D:\Cafe\bin\Debug\EntityFramework.xml
+D:\Cafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+D:\Cafe\obj\Debug\Cafe.CtrlDrink.resources
+D:\Cafe\obj\Debug\Cafe.FrmSettings.resources
+D:\Cafe\obj\Debug\Cafe.Main.resources
+D:\Cafe\obj\Debug\Cafe.FrmAddEditDrink.resources
+D:\Cafe\obj\Debug\Cafe.FrmCafeDetails.resources
+D:\Cafe\obj\Debug\Cafe.FrmGetDeliveryInvoiceDetails.resources
+D:\Cafe\obj\Debug\Cafe.FrmInnerInvoices.resources
+D:\Cafe\obj\Debug\Cafe.FrmInvoice.resources
+D:\Cafe\obj\Debug\Cafe.FrmLogin.resources
+D:\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+D:\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+D:\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+D:\Cafe\obj\Debug\YourCafe.exe.manifest
+D:\Cafe\obj\Debug\YourCafe.application
+D:\Cafe\obj\Debug\Cafe.csproj.Up2Date
+D:\Cafe\obj\Debug\YourCafe.exe
+D:\Cafe\obj\Debug\YourCafe.pdb
+D:\Cafe\obj\Debug\Cafe.CtrlFood.resources
+D:\Cafe\bin\Debug\ClsSales.cs
+D:\Cafe\bin\Debug\DBCafe.db
+D:\Cafe\bin\Debug\EPPlus.dll
+D:\Cafe\bin\Debug\EPPlus.Interfaces.dll
+D:\Cafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\Cafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Cafe\bin\Debug\System.Buffers.dll
+D:\Cafe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Cafe\bin\Debug\System.Memory.dll
+D:\Cafe\bin\Debug\System.Numerics.Vectors.dll
+D:\Cafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cafe\bin\Debug\EPPlus.xml
+D:\Cafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Cafe\bin\Debug\System.Buffers.xml
+D:\Cafe\bin\Debug\System.Memory.xml
+D:\Cafe\bin\Debug\System.Numerics.Vectors.xml
+D:\Cafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\restaurantAndCafe\bin\Debug\x86\sqlite3.dll
+D:\restaurantAndCafe\bin\Debug\x64\sqlite3.dll
+D:\restaurantAndCafe\bin\Debug\ClsSales.cs
+D:\restaurantAndCafe\bin\Debug\YourCafe.exe.config
+D:\restaurantAndCafe\bin\Debug\YourCafe.exe.manifest
+D:\restaurantAndCafe\bin\Debug\YourCafe.application
+D:\restaurantAndCafe\bin\Debug\YourCafe.exe
+D:\restaurantAndCafe\bin\Debug\YourCafe.pdb
+D:\restaurantAndCafe\bin\Debug\CadeDateACcess.dll
+D:\restaurantAndCafe\bin\Debug\EntityFramework.SqlServer.dll
+D:\restaurantAndCafe\bin\Debug\EPPlus.dll
+D:\restaurantAndCafe\bin\Debug\EPPlus.Interfaces.dll
+D:\restaurantAndCafe\bin\Debug\EPPlus.System.Drawing.dll
+D:\restaurantAndCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\restaurantAndCafe\bin\Debug\System.Buffers.dll
+D:\restaurantAndCafe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\restaurantAndCafe\bin\Debug\System.Data.SQLite.dll
+D:\restaurantAndCafe\bin\Debug\System.Data.SQLite.EF6.dll
+D:\restaurantAndCafe\bin\Debug\System.Data.SQLite.Linq.dll
+D:\restaurantAndCafe\bin\Debug\System.Memory.dll
+D:\restaurantAndCafe\bin\Debug\System.Numerics.Vectors.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\restaurantAndCafe\bin\Debug\EntityFramework.dll
+D:\restaurantAndCafe\bin\Debug\CadeDateACcess.pdb
+D:\restaurantAndCafe\bin\Debug\EntityFramework.SqlServer.xml
+D:\restaurantAndCafe\bin\Debug\EPPlus.xml
+D:\restaurantAndCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\restaurantAndCafe\bin\Debug\System.Buffers.xml
+D:\restaurantAndCafe\bin\Debug\System.Data.SQLite.xml
+D:\restaurantAndCafe\bin\Debug\System.Memory.xml
+D:\restaurantAndCafe\bin\Debug\System.Numerics.Vectors.xml
+D:\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\restaurantAndCafe\bin\Debug\EntityFramework.xml
+D:\restaurantAndCafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+D:\restaurantAndCafe\obj\Debug\Cafe.CtrlDrink.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.CtrlFood.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmSettings.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.Main.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmAddEditDrink.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmCafeDetails.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmGetDeliveryInvoiceDetails.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmInnerInvoices.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmInvoice.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.FrmLogin.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.Properties.Resources.resources
+D:\restaurantAndCafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+D:\restaurantAndCafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+D:\restaurantAndCafe\obj\Debug\YourCafe.exe.manifest
+D:\restaurantAndCafe\obj\Debug\YourCafe.application
+D:\restaurantAndCafe\obj\Debug\Cafe.csproj.Up2Date
+D:\restaurantAndCafe\obj\Debug\YourCafe.exe
+D:\restaurantAndCafe\obj\Debug\YourCafe.pdb
+D:\restaurantAndCafe\bin\Debug\DBCafe.db
+D:\restaurantAndCafe\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\restaurantAndCafe\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\netstandard.dll
+D:\restaurantAndCafe\bin\Debug\System.AppContext.dll
+D:\restaurantAndCafe\bin\Debug\System.Collections.Concurrent.dll
+D:\restaurantAndCafe\bin\Debug\System.Collections.dll
+D:\restaurantAndCafe\bin\Debug\System.Collections.NonGeneric.dll
+D:\restaurantAndCafe\bin\Debug\System.Collections.Specialized.dll
+D:\restaurantAndCafe\bin\Debug\System.ComponentModel.dll
+D:\restaurantAndCafe\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\restaurantAndCafe\bin\Debug\System.ComponentModel.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\restaurantAndCafe\bin\Debug\System.Console.dll
+D:\restaurantAndCafe\bin\Debug\System.Data.Common.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.Contracts.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.Debug.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.Process.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.Tools.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\restaurantAndCafe\bin\Debug\System.Diagnostics.Tracing.dll
+D:\restaurantAndCafe\bin\Debug\System.Drawing.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.Dynamic.Runtime.dll
+D:\restaurantAndCafe\bin\Debug\System.Globalization.Calendars.dll
+D:\restaurantAndCafe\bin\Debug\System.Globalization.dll
+D:\restaurantAndCafe\bin\Debug\System.Globalization.Extensions.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.Compression.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.FileSystem.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.IsolatedStorage.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.Pipes.dll
+D:\restaurantAndCafe\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\restaurantAndCafe\bin\Debug\System.Linq.dll
+D:\restaurantAndCafe\bin\Debug\System.Linq.Expressions.dll
+D:\restaurantAndCafe\bin\Debug\System.Linq.Parallel.dll
+D:\restaurantAndCafe\bin\Debug\System.Linq.Queryable.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.Http.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.NameResolution.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.NetworkInformation.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.Ping.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.Requests.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.Security.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.Sockets.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.WebSockets.Client.dll
+D:\restaurantAndCafe\bin\Debug\System.Net.WebSockets.dll
+D:\restaurantAndCafe\bin\Debug\System.ObjectModel.dll
+D:\restaurantAndCafe\bin\Debug\System.Reflection.dll
+D:\restaurantAndCafe\bin\Debug\System.Reflection.Extensions.dll
+D:\restaurantAndCafe\bin\Debug\System.Reflection.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.Resources.Reader.dll
+D:\restaurantAndCafe\bin\Debug\System.Resources.ResourceManager.dll
+D:\restaurantAndCafe\bin\Debug\System.Resources.Writer.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Extensions.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Handles.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.InteropServices.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Numerics.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Claims.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.Principal.dll
+D:\restaurantAndCafe\bin\Debug\System.Security.SecureString.dll
+D:\restaurantAndCafe\bin\Debug\System.Text.Encoding.dll
+D:\restaurantAndCafe\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\restaurantAndCafe\bin\Debug\System.Text.RegularExpressions.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.Overlapped.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.Tasks.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.Thread.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.ThreadPool.dll
+D:\restaurantAndCafe\bin\Debug\System.Threading.Timer.dll
+D:\restaurantAndCafe\bin\Debug\System.ValueTuple.dll
+D:\restaurantAndCafe\bin\Debug\System.Xml.ReaderWriter.dll
+D:\restaurantAndCafe\bin\Debug\System.Xml.XDocument.dll
+D:\restaurantAndCafe\bin\Debug\System.Xml.XmlDocument.dll
+D:\restaurantAndCafe\bin\Debug\System.Xml.XmlSerializer.dll
+D:\restaurantAndCafe\bin\Debug\System.Xml.XPath.dll
+D:\restaurantAndCafe\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\restaurantAndCafe\obj\Debug\Cafe.csproj.SuggestedBindingRedirects.cache
+D:\restaurantAndCafe\obj\Debug\YourCafe.exe.config
+E:\restaurantAndCafe\bin\Debug\x86\sqlite3.dll
+E:\restaurantAndCafe\bin\Debug\x64\sqlite3.dll
+E:\restaurantAndCafe\bin\Debug\DBCafe.db
+E:\restaurantAndCafe\bin\Debug\ClsSales.cs
+E:\restaurantAndCafe\bin\Debug\CadeDateACcess.dll
+E:\restaurantAndCafe\bin\Debug\EntityFramework.SqlServer.dll
+E:\restaurantAndCafe\bin\Debug\EPPlus.dll
+E:\restaurantAndCafe\bin\Debug\EPPlus.Interfaces.dll
+E:\restaurantAndCafe\bin\Debug\EPPlus.System.Drawing.dll
+E:\restaurantAndCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\restaurantAndCafe\bin\Debug\System.Buffers.dll
+E:\restaurantAndCafe\bin\Debug\System.ComponentModel.Annotations.dll
+E:\restaurantAndCafe\bin\Debug\System.Data.SQLite.dll
+E:\restaurantAndCafe\bin\Debug\System.Data.SQLite.EF6.dll
+E:\restaurantAndCafe\bin\Debug\System.Data.SQLite.Linq.dll
+E:\restaurantAndCafe\bin\Debug\System.Memory.dll
+E:\restaurantAndCafe\bin\Debug\System.Numerics.Vectors.dll
+E:\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\restaurantAndCafe\bin\Debug\EntityFramework.dll
+E:\restaurantAndCafe\bin\Debug\CadeDateACcess.pdb
+E:\restaurantAndCafe\bin\Debug\EntityFramework.SqlServer.xml
+E:\restaurantAndCafe\bin\Debug\EPPlus.xml
+E:\restaurantAndCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\restaurantAndCafe\bin\Debug\System.Buffers.xml
+E:\restaurantAndCafe\bin\Debug\System.Data.SQLite.xml
+E:\restaurantAndCafe\bin\Debug\System.Memory.xml
+E:\restaurantAndCafe\bin\Debug\System.Numerics.Vectors.xml
+E:\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\restaurantAndCafe\bin\Debug\EntityFramework.xml
+E:\restaurantAndCafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+E:\restaurantAndCafe\obj\Debug\Cafe.CtrlDrink.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.CtrlFood.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmSettings.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.Main.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmAddEditDrink.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmCafeDetails.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmGetDeliveryInvoiceDetails.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmInnerInvoices.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmInvoice.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.FrmLogin.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.Properties.Resources.resources
+E:\restaurantAndCafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+E:\restaurantAndCafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+E:\restaurantAndCafe\obj\Debug\Cafe.csproj.Up2Date
+E:\restaurantAndCafe\bin\Debug\Restaurant Solution.exe.config
+E:\restaurantAndCafe\bin\Debug\Restaurant Solution.exe.manifest
+E:\restaurantAndCafe\bin\Debug\Restaurant Solution.application
+E:\restaurantAndCafe\bin\Debug\Restaurant Solution.exe
+E:\restaurantAndCafe\bin\Debug\Restaurant Solution.pdb
+E:\restaurantAndCafe\obj\Debug\Restaurant Solution.exe.manifest
+E:\restaurantAndCafe\obj\Debug\Restaurant Solution.application
+E:\restaurantAndCafe\obj\Debug\Restaurant Solution.exe
+E:\restaurantAndCafe\obj\Debug\Restaurant Solution.pdb
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\x86\sqlite3.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\x64\sqlite3.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\DBCafe.db
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\ClsSales.cs
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Restaurant Solution.exe.config
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Restaurant Solution.exe.manifest
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Restaurant Solution.application
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Restaurant Solution.exe
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Restaurant Solution.pdb
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\CadeDateACcess.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EntityFramework.SqlServer.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EPPlus.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EPPlus.Interfaces.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EPPlus.System.Drawing.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Buffers.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.ComponentModel.Annotations.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Data.SQLite.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Memory.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Numerics.Vectors.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EntityFramework.dll
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\CadeDateACcess.pdb
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EntityFramework.SqlServer.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EPPlus.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Buffers.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Data.SQLite.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Memory.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Numerics.Vectors.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WORK\My Apps\restaurantAndCafe\bin\Debug\EntityFramework.xml
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.CtrlDrink.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.CtrlFood.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmSettings.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.Main.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmAddEditDrink.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmCafeDetails.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmGetDeliveryInvoiceDetails.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmInnerInvoices.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmInvoice.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.FrmLogin.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.Properties.Resources.resources
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Restaurant Solution.exe.manifest
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Restaurant Solution.application
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Cafe.csproj.Up2Date
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Restaurant Solution.exe
+E:\WORK\My Apps\restaurantAndCafe\obj\Debug\Restaurant Solution.pdb
