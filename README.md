@@ -2,7 +2,7 @@
 🛠 Overview
 This is a self-contained desktop application developed entirely by me using the .NET Framework. The application uses an embedded SQLite database, meaning no external server is required — everything is built into the app for easy deployment and smooth performance.
 
-👉 Download and install now
+👉 Download and install now from [here](https://www.mediafire.com/file/9x4v1sfgb4hn5ys/Restaurant_Solution_Git.zip/file) 
 
 Demo Credentials:
 
